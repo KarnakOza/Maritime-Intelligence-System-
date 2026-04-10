@@ -1,9 +1,8 @@
 ## Methodology
 
 1. SAR Preprocessing  
-  -Sentinel-1 GRD data 
-  
-  -calibration, orbit files, thermal noise removal, speckle filter, Adaptive thresolding, ocean object detection, terrain correction.
+    -Sentinel-1 GRD data 
+    -calibration, orbit files, thermal noise removal, speckle filter, Adaptive thresolding, ocean object detection, terrain correction.
 2. Ship Detection 
 -Bright target extraction 
 -thresoldhing + filtering 
