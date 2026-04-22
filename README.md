@@ -17,7 +17,7 @@ Maritime traffic is one of the strongest indicators of global trade and energy m
 
 
 
-![image alt](https://github.com/KarnakOza/Maritime-Intelligence-System-/blob/79501e1b31684ecca44613de728a096ba46edb84/ship_SOH.png)
+![image alt](https://github.com/KarnakOza/Maritime-Intelligence-System-/blob/7b1cc7b4bcb7120032f894e762b6bd5c2202273f/figures/Artificial_generated_depiction.png)
 
 
 📊 Why this matters:
