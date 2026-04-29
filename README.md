@@ -5,6 +5,8 @@
 ![QGIS](https://img.shields.io/badge/QGIS-Analysis-brightgreen)
 ![Status](https://img.shields.io/badge/Project-Completed-success)
 ![License](https://img.shields.io/badge/License-MIT-yellow)
+
+
 Satellite-to-Economics Analystics Platform
 
 Turning Satellite Data into Economic Intelligence
